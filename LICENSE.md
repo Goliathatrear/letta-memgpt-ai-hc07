@@ -1,4 +1,4 @@
-# 
+# Elite Letta (MemGPT) modelos. Com busca semântica e memória contextual — otimizado para máximo desempenho e eficiência.
 
 
 
